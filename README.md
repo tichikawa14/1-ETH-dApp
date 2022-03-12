@@ -15,6 +15,8 @@ npx hardhat help
 ```
 
 # ローカル環境でスマートコントラクトをデプロイ
+`$ npx hardhat run deploy.js --network localhost`
+
 ```
   Contract deployment: WavePortal
   Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
